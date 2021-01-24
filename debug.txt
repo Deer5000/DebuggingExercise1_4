@@ -1,0 +1,51 @@
+Debuggging(Day 1)
+
+Quote: "The bug is not moving around in your code trying to evade you, its sitting 
+in the same place doing the wrong thing in the same way every time."
+
+---Steps To Take When Debugging---
+- Step 1 (Gather Information)
+    - error messages
+    - stack traces
+    - screenshots
+    - Environment Information
+        - Operating systems
+        - Browser
+    - Date and time
+    - Logs
+    
+- Step 2()
+
+
+
+
+
+
+---DIFFERENT DEBUGGING TECHNIQUES---
+- 
+-
+-
+-
+-
+
+---PROS AND CONS OF Debugging---
+
+PROS
+- 
+- 
+- 
+- 
+
+CONS
+-
+-
+-
+-
+
+---BREAKPOINTS---
+-
+- 
+- 
+-
+- 
+
